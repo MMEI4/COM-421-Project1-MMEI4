@@ -8,3 +8,7 @@ body {
     color: darkblue;
     font-size :1.1em;
 }
+
+.sidebar {
+    margin: 30px;
+}
