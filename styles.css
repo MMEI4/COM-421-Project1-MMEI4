@@ -1,14 +1,30 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 30px;
-    background-color: #f4f4f4;
+    font-family: Arial;
+    max-width: 810px;
+    margin: 100px;
+    background-color: #fffcf5;
+    line-height: 1.15;
 }
 
 .dark_blue {
     color: darkblue;
-    font-size :1.1em;
+    font-size :1.05em;
+    font-weight: bold;
 }
 
 .sidebar {
     margin: 30px;
+    font-weight: bold;
 }
+
+.sidebar h4 {
+    font-size :1.05em;
+}
+
+
+h1, h2, h3 {
+  color: rgb(69, 123, 194);
+  font-weight: 700;
+}
+
+
